@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "baseUrl": "./typings",
+        "types": [
+            "angular",
+            "node",
+            "jquery"
+        ]
+    },
+    "compileOnSave": true
+}
